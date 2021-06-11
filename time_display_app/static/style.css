@@ -1,0 +1,19 @@
+* {
+    width: 970px;
+    height: auto;
+}
+
+h4 {
+    border: solid 2px black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+ul {
+    display: flex;
+    background-color: red;
+    border-radius: 10px;
+    font-weight: 650;
+}
